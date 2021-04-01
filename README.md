@@ -1,6 +1,6 @@
 # Book Search Engine
 ## Description
-An application to search for books and add additional books to the database.
+An online library where users can create an account in order to search for and save books to their own personal libraries. Users can also delete books that they are no longer interested in keeping in their library.
 ## Website
 placeholder website address
 ## Built With
@@ -9,3 +9,4 @@ placeholder website address
 * Express
 * React
 * Node
+* GraphQL
